@@ -11,10 +11,10 @@ AI駆動塾,@L_go_mrk,adjacent,Claude Code・Obsidian・第二の脳,,ナレッ�
 テツメモ｜AI図解×検証,@tetumemo,adjacent,AI図解・検証,,図解と検証で理解しやすい,Claude Code特化ではない,検証結果の見せ方を参考にする,図解/要約型の参考
 Oikon,@oikon48,benchmark,Claude Code考察,,技術トレンドの整理がうまい,実装ログは薄い可能性,実験ログで差別化,考察型投稿の参考
 木内翔大 / SHIFT AI,@shota7180,benchmark,AI大衆啓蒙,,保存型リスト投稿が強い,個人検証感は薄い,検証済みテンプレで差別化,大衆向けAI発信の参考
-Codex Studio,@Codestudiopjbk,plai-related,Codex特化,,Codex活用の市場感がわかる,Claude Code文脈とは異なる,Claude Code/Codex比較で活かす,PLAI系候補
-いち＠OpenClawガチ勢,@ichiaimarketer,plai-related,OpenClaw,,OpenClawの市場感がわかる,ニッチになりやすい,将来の常駐エージェント検証に接続,PLAI系候補
-りゅう@Obsidianガチ勢,@obsidianstudio9,plai-related,Obsidian・ナレッジ管理,,Obsidian活用の市場感がわかる,AIエージェント文脈が弱い可能性,AI memory/第二の脳の検証に接続,PLAI系候補
-オープンソース研究所,@codexstudio_jp,plai-related,オープンソース・AIツール,,ツール紹介/研究所型の見せ方がわかる,情報まとめに寄りやすい,検証・比較・失敗で差別化,PLAI系候補
+Codex Studio,@Codestudiopjbk,plai-pattern,Codex特化,,Codex活用の市場感がわかる,Claude Code文脈とは異なる,Claude Code/Codex比較で活かす,PLAI系アカウント群の投稿構造・バズ傾向を学ぶ対象
+いち＠OpenClawガチ勢,@ichiaimarketer,plai-pattern,OpenClaw,,OpenClawの市場感がわかる,ニッチになりやすい,将来の常駐エージェント検証に接続,PLAI系アカウント群の投稿構造・バズ傾向を学ぶ対象
+りゅう@Obsidianガチ勢,@obsidianstudio9,plai-pattern,Obsidian・ナレッジ管理,,Obsidian活用の市場感がわかる,AIエージェント文脈が弱い可能性,AI memory/第二の脳の検証に接続,PLAI系アカウント群の投稿構造・バズ傾向を学ぶ対象
+オープンソース研究所,@codexstudio_jp,plai-pattern,オープンソース・AIツール,,ツール紹介/研究所型の見せ方がわかる,情報まとめに寄りやすい,検証・比較・失敗で差別化,PLAI系アカウント群の投稿構造・バズ傾向を学ぶ対象
 Yann,@yanndine,overseas,Claude Code高度活用,,subagentsやhooksなど構造化投稿が参考になる,海外高度層向け,日本語向けに再現可能な手順へ変換,海外ベンチマーク
 Claude Code Changelog,@ClaudeCodeLog,overseas,Claude Code変更点,,Claude Code最新情報を追える,情報更新中心,検証・影響分析に変換,最新情報ウォッチ用
 Nainsi Dwivedi,@NainsiDwiv50980,overseas,Claude Code機能整理,,隠れ機能やpower stack型の整理が参考になる,海外文脈でそのままでは使いにくい,日本語読者向けに再構成,海外ベンチマーク
