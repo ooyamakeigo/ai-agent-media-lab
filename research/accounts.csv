@@ -1,25 +1,25 @@
-account_name,handle,category,theme,followers,follow_reason,weakness,our_angle,notes
-東大Claude Code研究所,@ClaudeCode_UT,direct,Claude Code実務ノウハウ,,Claude Code情報を毎日拾える,Claude Code特化で被る,検証・比較・失敗例に寄せる,最重要ウォッチ対象
-Claude Code Studio @ Japan,@ClaudeCode_love,direct,Claude Code活用・急成長,,Claude Code活用事例と急成長パターンがわかる,後発だと被る,AIエージェント全体の検証メディアに広げる,最重要ウォッチ対象
-Claude Code研究所 / スパルタClaude Code塾,@claudecode_lab,direct,Claude Code教育・講座,,Claude Codeの体系的な学習導線がある,講座色が強い,検証メディアとして差別化,教育導線の参考
-そう｜Claude Codeで始めるAI自動化,@so_ainsight,direct,Claude Code自動化,,AI自動化の実務イメージがわかる,テーマが近い,東大博士の検証・比較で差別化,近接競合
-そら｜AgentSkills 自動化オタク,@sora19ai,direct,AgentSkills・自動化,,AIエージェント周辺情報がわかる,専門寄りになりやすい,読者向け検証レポートに変換,近接競合
-AI駆動塾,@L_go_mrk,adjacent,Claude Code・Obsidian・第二の脳,,ナレッジ設計がわかる,対象がやや分散,AIエージェント検証と連携,Obsidian/Markdown路線の参考
-アイビー,@A_I_V_Y,adjacent,AI初心者向け解説,,初心者にもわかりやすい,深い検証は弱い可能性,東大博士の実験で深さを出す,初心者向け表現の参考
-ユニコ｜ClaudeCodeガチ勢の人,@unikoukokun,adjacent,士業・実務Claude Code活用,,職種特化の実用性がある,対象が限定的,複数業務で比較検証,実務応用の参考
-シロウ,@shiro_life0,adjacent,Claude Code・ナレッジ設計,,Claude Codeのナレッジ設計がわかる,個別ノウハウに寄りやすい,検証結果とテンプレに変換,ディレクトリ構造やknowledge管理の参考
-テツメモ｜AI図解×検証,@tetumemo,adjacent,AI図解・検証,,図解と検証で理解しやすい,Claude Code特化ではない,検証結果の見せ方を参考にする,図解/要約型の参考
-Oikon,@oikon48,benchmark,Claude Code考察,,技術トレンドの整理がうまい,実装ログは薄い可能性,実験ログで差別化,考察型投稿の参考
-木内翔大 / SHIFT AI,@shota7180,benchmark,AI大衆啓蒙,,保存型リスト投稿が強い,個人検証感は薄い,検証済みテンプレで差別化,大衆向けAI発信の参考
-Codex Studio,@Codestudiopjbk,plai-pattern,Codex特化,,Codex活用の市場感がわかる,Claude Code文脈とは異なる,Claude Code/Codex比較で活かす,PLAI系アカウント群の投稿構造・バズ傾向を学ぶ対象
-いち＠OpenClawガチ勢,@ichiaimarketer,plai-pattern,OpenClaw,,OpenClawの市場感がわかる,ニッチになりやすい,将来の常駐エージェント検証に接続,PLAI系アカウント群の投稿構造・バズ傾向を学ぶ対象
-りゅう@Obsidianガチ勢,@obsidianstudio9,plai-pattern,Obsidian・ナレッジ管理,,Obsidian活用の市場感がわかる,AIエージェント文脈が弱い可能性,AI memory/第二の脳の検証に接続,PLAI系アカウント群の投稿構造・バズ傾向を学ぶ対象
-オープンソース研究所,@codexstudio_jp,plai-pattern,オープンソース・AIツール,,ツール紹介/研究所型の見せ方がわかる,情報まとめに寄りやすい,検証・比較・失敗で差別化,PLAI系アカウント群の投稿構造・バズ傾向を学ぶ対象
-OpenClaw,@openclaw,official-watch,OpenClaw公式,,OpenClawの最新アップデートを追える,投稿型の参考にはなりにくい,検証ネタの一次情報として使う,公式情報ウォッチ用
-AdiiX,@adiix_official,media-automation,AIメディア自動運用,,AIでSNS/メディア運用する事例がわかる,日本語市場とは違う,日本語X運用実験に変換,AIメディア運用の海外ベンチマーク
-Yann,@yanndine,overseas,Claude Code高度活用,,subagentsやhooksなど構造化投稿が参考になる,海外高度層向け,日本語向けに再現可能な手順へ変換,海外ベンチマーク
-Claude Code Changelog,@ClaudeCodeLog,overseas,Claude Code変更点,,Claude Code最新情報を追える,情報更新中心,検証・影響分析に変換,最新情報ウォッチ用
-Nainsi Dwivedi,@NainsiDwiv50980,overseas,Claude Code機能整理,,隠れ機能やpower stack型の整理が参考になる,海外文脈でそのままでは使いにくい,日本語読者向けに再構成,海外ベンチマーク
-tut_ml,@tut_ml,overseas,Claude Code設計思想,,separation of concernsなど設計思想が参考になる,抽象度が高い,具体的な検証手順に落とす,サブエージェント設計の参考
-AgentSkills,@CodeTrendr,overseas,AgentSkills,,AgentSkills周辺トピックを追える,周辺情報になりがち,実用性検証に変換,海外ベンチマーク
-Tessl,@tessl_io,overseas,Agent skills管理,,スキル管理・評価・バージョン管理の発想が参考になる,企業/海外向け,日本語の個人運用に変換,海外ベンチマーク
+account_name,handle,category,priority,status,theme,followers,follow_reason,weakness,our_angle,notes
+東大Claude Code研究所,@ClaudeCode_UT,direct,S,active,Claude Code実務ノウハウ,,Claude Code情報を毎日拾える,Claude Code特化で被る,検証・比較・失敗例に寄せる,最重要ウォッチ対象
+Claude Code Studio @ Japan,@ClaudeCode_love,direct,S,active,Claude Code活用・急成長,,Claude Code活用事例と急成長パターンがわかる,後発だと被る,AIエージェント全体の検証メディアに広げる,最重要ウォッチ対象
+Claude Code研究所 / スパルタClaude Code塾,@claudecode_lab,direct,A,active,Claude Code教育・講座,,Claude Codeの体系的な学習導線がある,講座色が強い,検証メディアとして差別化,教育導線の参考
+そう｜Claude Codeで始めるAI自動化,@so_ainsight,direct,A,active,Claude Code自動化,,AI自動化の実務イメージがわかる,テーマが近い,東大博士の検証・比較で差別化,近接競合
+そら｜AgentSkills 自動化オタク,@sora19ai,direct,S,active,AgentSkills・自動化,,AIエージェント周辺情報がわかる,専門寄りになりやすい,読者向け検証レポートに変換,近接競合
+AI駆動塾,@L_go_mrk,adjacent,B,watch,Claude Code・Obsidian・第二の脳,,ナレッジ設計がわかる,対象がやや分散,AIエージェント検証と連携,Obsidian/Markdown路線の参考
+アイビー,@A_I_V_Y,adjacent,B,watch,AI初心者向け解説,,初心者にもわかりやすい,深い検証は弱い可能性,東大博士の実験で深さを出す,初心者向け表現の参考
+ユニコ｜ClaudeCodeガチ勢の人,@unikoukokun,adjacent,B,watch,士業・実務Claude Code活用,,職種特化の実用性がある,対象が限定的,複数業務で比較検証,実務応用の参考
+シロウ,@shiro_life0,adjacent,A,active,Claude Code・ナレッジ設計,,Claude Codeのナレッジ設計がわかる,個別ノウハウに寄りやすい,検証結果とテンプレに変換,ディレクトリ構造やknowledge管理の参考
+テツメモ｜AI図解×検証,@tetumemo,adjacent,A,active,AI図解・検証,,図解と検証で理解しやすい,Claude Code特化ではない,検証結果の見せ方を参考にする,図解/要約型の参考
+Oikon,@oikon48,benchmark,B,watch,Claude Code考察,,技術トレンドの整理がうまい,実装ログは薄い可能性,実験ログで差別化,考察型投稿の参考
+木内翔大 / SHIFT AI,@shota7180,benchmark,B,watch,AI大衆啓蒙,,保存型リスト投稿が強い,個人検証感は薄い,検証済みテンプレで差別化,大衆向けAI発信の参考
+Codex Studio,@Codestudiopjbk,plai-pattern,A,to-verify,Codex特化,,Codex活用の市場感がわかる,Claude Code文脈とは異なる,Claude Code/Codex比較で活かす,PLAI系アカウント群の投稿構造・バズ傾向を学ぶ対象
+いち＠OpenClawガチ勢,@ichiaimarketer,plai-pattern,A,active,OpenClaw,,OpenClawの市場感がわかる,ニッチになりやすい,将来の常駐エージェント検証に接続,PLAI系アカウント群の投稿構造・バズ傾向を学ぶ対象
+りゅう@Obsidianガチ勢,@obsidianstudio9,plai-pattern,A,to-verify,Obsidian・ナレッジ管理,,Obsidian活用の市場感がわかる,AIエージェント文脈が弱い可能性,AI memory/第二の脳の検証に接続,PLAI系アカウント群の投稿構造・バズ傾向を学ぶ対象
+オープンソース研究所,@codexstudio_jp,plai-pattern,A,to-verify,オープンソース・AIツール,,ツール紹介/研究所型の見せ方がわかる,情報まとめに寄りやすい,検証・比較・失敗で差別化,PLAI系アカウント群の投稿構造・バズ傾向を学ぶ対象
+OpenClaw,@openclaw,official-watch,A,watch,OpenClaw公式,,OpenClawの最新アップデートを追える,投稿型の参考にはなりにくい,検証ネタの一次情報として使う,公式情報ウォッチ用
+AdiiX,@adiix_official,media-automation,A,active,AIメディア自動運用,,AIでSNS/メディア運用する事例がわかる,日本語市場とは違う,日本語X運用実験に変換,AIメディア運用の海外ベンチマーク
+Yann,@yanndine,overseas,B,watch,Claude Code高度活用,,subagentsやhooksなど構造化投稿が参考になる,海外高度層向け,日本語向けに再現可能な手順へ変換,海外ベンチマーク
+Claude Code Changelog,@ClaudeCodeLog,overseas,A,watch,Claude Code変更点,,Claude Code最新情報を追える,情報更新中心,検証・影響分析に変換,最新情報ウォッチ用
+Nainsi Dwivedi,@NainsiDwiv50980,overseas,C,to-verify,Claude Code機能整理,,隠れ機能やpower stack型の整理が参考になる,海外文脈でそのままでは使いにくい,日本語読者向けに再構成,海外ベンチマーク
+tut_ml,@tut_ml,overseas,B,watch,Claude Code設計思想,,separation of concernsなど設計思想が参考になる,抽象度が高い,具体的な検証手順に落とす,サブエージェント設計の参考
+AgentSkills,@CodeTrendr,overseas,B,watch,AgentSkills,,AgentSkills周辺トピックを追える,周辺情報になりがち,実用性検証に変換,海外ベンチマーク
+Tessl,@tessl_io,overseas,B,watch,Agent skills管理,,スキル管理・評価・バージョン管理の発想が参考になる,企業/海外向け,日本語の個人運用に変換,海外ベンチマーク
